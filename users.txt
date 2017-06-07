@@ -1,0 +1,12 @@
+admin
+uucp
+test
+mysql
+123456
+user
+webmaster
+admin
+support
+ftp
+root
+toor
